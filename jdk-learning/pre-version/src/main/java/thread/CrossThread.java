@@ -4,7 +4,7 @@ package thread;
  * @author chenyuhao
  * @version 1.0.0
  * @ClassName CrossThread.java
- * @Description TODO
+ * @Description 两线程交叉执行
  * @createTime 2020年04月16日 21:16:00
  */
 public class CrossThread {

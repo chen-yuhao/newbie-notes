@@ -1,8 +1,7 @@
 # newbie-notes
 
 ## 创建该项目是为了记录自己的一些笔记
-希望把jdk常用包使用记录一下，并结合一些常规的工作场景进行探讨
-,便于以后当工具/模板库使用
+希望把jdk常用包使用记录一下，并结合一些常规的工作场景进行探讨,便于以后当工具/模板库使用
 
 - [JVM]()
     - [内存区域划分]()
@@ -28,8 +27,8 @@
     - [分库分表方案]()
     - [MVCC]()
     - [连接池]()
-            - [HikariCp]()
-            - [Druid]()
+        - [HikariCp]()
+        - [Druid]()
 - [Redis]()
 - [Kafka]()
 - [Spring]()
@@ -46,16 +45,17 @@
 - [Nginx]()
 - [算法]()
     - [剑指offer]()
-    - [leetcode]()
+    - [Leetcode]()
 
 
-- [面试题]((https://github.com/chen-yuhao/newbie-notes/blob/master/doc/interview-quetions/interview-quetions.md))
+- [面试题](https://github.com/chen-yuhao/newbie-notes/blob/master/doc/interview-quetions/interview-quetions.md)
     - [SQL](https://github.com/chen-yuhao/newbie-notes/blob/master/doc/interview-quetions/sql/sql.md)
 
-# 一些知识归纳的仓库
+# 一些优秀的仓库
 - [https://github.com/CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
 - [https://github.com/crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout)
 - [https://github.com/Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
+- [https://github.com/hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)
 
 - spring framework
     - [https://github.com/xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)
