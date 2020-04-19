@@ -14,8 +14,9 @@
     </dependencies>
 
     <modules>
-        <module>jdk-learninging</module>
+        <module>jdk-learning</module>
         <module>design-pattern</module>
+        <module>algorithm</module>
     </modules>
 
 
