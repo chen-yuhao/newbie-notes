@@ -32,6 +32,7 @@
 - [Redis]()
 - [Kafka]()
 - [Spring]()
+- [Struts2]()
 - [Hibernate]()
 - [MyBatis]()
 - [SpringMVC]()

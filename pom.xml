@@ -17,6 +17,7 @@
         <module>jdk-learning</module>
         <module>design-pattern</module>
         <module>algorithm</module>
+        <module>struts2-learning</module>
     </modules>
 
 
