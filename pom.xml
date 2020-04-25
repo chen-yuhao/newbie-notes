@@ -18,6 +18,7 @@
         <module>design-pattern</module>
         <module>algorithm</module>
         <module>struts2-learning</module>
+        <module>mybatis-learning</module>
     </modules>
 
 
